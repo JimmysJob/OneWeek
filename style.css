@@ -169,7 +169,7 @@ body {
 /* banner style */
 
 .banner {
-  margin-top: 160px;
+  padding-top: 160px;
 }
 
 .banner-text {
@@ -249,14 +249,14 @@ body {
 
 /* footer style */
 
-.footer {
+.footer-icon {
   background-color: #000;
   padding: 64px 0;
   display: flex;
-  align-content: center;
   justify-content: center;
+  align-items: center;
 }
 
-.footer a {
+.footer-icon li {
   margin-right: 40px;
 }
